@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rizwanullah @rizwanrockzz.<br>😎 I’m a Full Stack Web Developer.<br>🌱 I’m currently building [TP SmartSol](https://tpsmartsol.com/).<br>🌐 [Click here](https://www.rizwanrockzz.tech/) to view my Portfolio Site 🔥.<br>👀 I have an interest on Developing Android Apps.
+👋 Hi, I’m Rizwanullah @rizwanrockzz.<br>😎 I’m a Full Stack Web Developer.<br></> Building [TP SmartSol](https://tpsmartsol.com/).<br>🌐 [Click here](https://www.rizwanrockzz.tech/) to view my Portfolio Site 🔥.<br>👀 I have an interest for Developing Apps.
 
 
 ## 🌐 Socials:
