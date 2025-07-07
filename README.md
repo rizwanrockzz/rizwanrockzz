@@ -1,12 +1,7 @@
 <h1 align="center">Hey 👋, What's Up?</h1>
 
 ## 👩‍💻 About Me:
-👋 Hi, I’m Rizwan @rizwanrockzz.<br>😎 I’m a Full Stack Web Developer.<br></> Building [TP SmartSol](https://tpsmartsol.com/).<br>🌐 [Click here](https://www.rizwanrockzz.tech/) to view my Portfolio Site 🔥.<br>👀 I have an interest for Developing Apps.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/rizwanullah-mohammad)
-  
+👋 I’m Rizwan @rizwanrockzz.<br>😎 I’m a Full Stack Web Developer.<br></> Building [TP SmartSol](https://tpsmartsol.com/).<br>🌐 [Click here](https://www.rizwanrockzz.tech/) to view my Portfolio Site 🔥.
 
 # 💻 My Stack:
 <div align="left">
@@ -28,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
@@ -48,6 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/rizwanullah-mohammad)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rizwanrockzz&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)<br/>
