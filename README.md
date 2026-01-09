@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="heroku logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  />
