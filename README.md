@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, What's Up?</h1>
 
 ## 👩‍💻 About Me:
-👋 I’m Rizwan @rizwanrockzz.<br>😎 Full Stack Web Developer.<br></> Building [TP SmartSol](https://tpsmartsol.com/).<br>🌐 [Click here](https://www.rizwanrockzz.tech/) to view my Portfolio Site 🔥.
+👋 I’m Rizwan.<br>😎 Full Stack Engineer.<br></> 🌐 [Click here](https://rizwan.is-a.dev/) to view my Portfolio 🔥.
 
 # 💻 My Stack:
 <div align="left">
